@@ -2,7 +2,7 @@
 #3-rd Homework for the course in Algorithmic Methods for Data Mining (ADM) at La Sapienza university of Rome.
 
 ## Short description 
-In this group homework we analyze [this web site](Atlas Obscura) with the main web scraping and crawling techniques.
+In this group homework we analyze [Atlas Obscura](https://www.atlasobscura.com/)) web site with the main web scraping and crawling techniques.
 Then we build a personal search engine on the crawled URL's, applying our knowledge in information retrieval and we implement an ad hoc scoring system thanks to the results obtained from web scraping. We made use of python libraries for scraping the elemetns of an HTML file as well as other tools for visualizing the score metrics
 (for the search engine) and statistical results.
 
