@@ -8,7 +8,7 @@ Then we build a personal search engine on the crawled URL's, applying our knowle
 
 ## Content
 
->- main.ipynb: the jupyter notebook with all the functions, the algorithmic solutions, the dataframe display and plots;
+>- `main.ipynb`: the jupyter notebook with all the functions, the algorithmic solutions, the dataframe display and plots;
 >- Commandline.sh: a bash script (runned in AWS ec2);
 >- ADMPG18.png: notes that help us to summirize our logic scheme regarding the MapReduce algorithmic solution we reported.
 
