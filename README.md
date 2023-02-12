@@ -1,5 +1,5 @@
 # WebScrapingForPlaces
-#3-rd Homework for the course in Algorithmic Methods for Data Mining (ADM) at La Sapienza university of Rome.
+### 3-rd Homework for the course in Algorithmic Methods for Data Mining (ADM) at La Sapienza university of Rome.
 
 ## Short description 
 In this group homework we analyze [Atlas Obscura](https://www.atlasobscura.com/) web site with the main web scraping and crawling techniques.
